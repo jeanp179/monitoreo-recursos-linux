@@ -1,0 +1,6 @@
+Tiempo %CPU Libre %Memoeria Libre % Disco Duro
+60 96,8 2,8Gi 15G
+120 98,4 2,8Gi 15G
+180 100 2,8Gi 15G
+240 100 2,8Gi 15G
+300 98,4 2,8Gi 15G
